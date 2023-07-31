@@ -1,27 +1,27 @@
 body{
-    background-color: antiquewhite;
+    background-color: #ede6db;
 }
 div{
     text-align: center;
 }
 .barra{
-    background-color:#5959A8;
+    background-color:#56070C;
     width: 100%;
     padding-top: 20px;
-    margin: 40px 30px 0px 80px;
+    margin: 40px 30px 0px 30px;
     text-align: center;
     text-decoration-line:none;
     color: white;
-    font-size: 20pt;
+    font-size: 22pt;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 button.barra1{
     margin: 5px 40px 5px 150px;
-    background-color: #a0f00c;
+    background-color: #00514e;
 }
 button{
     border-radius: 30px;
-    background-color: #5959A8;
+    background-color: #28706c;
 }
 .butt{
     font-size: 20pt;
@@ -34,18 +34,22 @@ button.barra1:hover{
     background-color: grey;
 }
 button.barra2:hover{
-    background-color: green;
+    background-color: #005100;
 }
 .yo{
     position: relative;
     width: 100%;
-    height: 460px;
-    background-color: rgb(238, 238, 238);     
+    height: 580px;
+    background-color: #9d5353;     
+}
+.contac{
+    color: black;
+    text-decoration: none;
 }
 .info{
     position: relative;
-    left: 25%;
-    width: 70%;
+    left: 30%;
+    width: 65%;
     height: 100%;
 }
 .foto{
@@ -56,7 +60,7 @@ button.barra2:hover{
 }
 .contenido{
     text-align: justify;
-    font-size: 15pt;
+    font-size: 16pt;
 }
 .GitHub:hover{
     background-color: green;
@@ -72,16 +76,38 @@ button.barra2:hover{
     position: fixed;
     top: 0;
     left: 0;
-    background-color:#5959A8;
+    background-color:#56070C;
     width: 100%;
     height: 50px;
     z-index: 1000;
 }
-div.cuadrante{
+div.python{
+    position: relative;
+    width:100%;
+    height: 550px;
+    background-color: #8fbdd3;
+    margin: 15px 0px;
+}
+p.titanic{
+    font-size: 17pt;
+    text-align: justify;
+}
+.bpython{
+    margin: 5px 40px 5px 150px;
+    background-color: #9d5353;
+}
+.buttpython{
+    font-size: 20pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+    text-align: center;
+    text-decoration-line:none;
+    color:white ;
+}
+div.excel{
     position: relative;
     width:100%;
     height: 400px;
-    background-color: rgb(240, 157, 192);
+    background-color: #a2b38b;
     margin: 15px 0px;
 }
 h2.imaTitulo{
@@ -92,9 +118,9 @@ h1{
 }
 .info2{
     position: relative;
-    width: 70%;
+    left: 2%;
+    width: 65%;
     height: 100%;
-    background-color: aliceblue;
 }
 .foto2{
     position: absolute;
