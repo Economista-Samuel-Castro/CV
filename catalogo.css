@@ -42,9 +42,11 @@ button.barra2:hover{
     height: 580px;
     background-color: #9d5353;     
 }
+.mi{
+    color: #f5f5f5;
+}
 .contac{
     color: black;
-    text-decoration: none;
 }
 .info{
     position: relative;
@@ -57,6 +59,28 @@ button.barra2:hover{
     top: 15%;
     left: 2%;
     width: 18%;
+}
+.condusef{
+    position: absolute;
+    top: 13%;
+    left: 2%;
+    width: 18%;
+    font-size: 20pt;
+}
+.courier{
+    position: absolute;
+    top: 59%;
+    left: 2%;
+    width: 18%;
+    font-size: 20pt;
+}
+.puesto{
+    font-size: 18pt;
+    color: #0000a0;
+
+}
+.clave{
+    color: #c30000;
 }
 .contenido{
     text-align: justify;
