@@ -1,337 +1,180 @@
-<!DOCTYPE HTML>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="catalogo.css" type="text/css"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>
-        Portafolio
-    </title>
-</head>
-    <body>
-            <header>
-                <nav class="bNavegacion" id="navegacion">
-                    <a class="barra" href="#yo">
-                        Samuel Castro
-                    </a>
-                    <a class="barra" href="#experiencia">
-                        Experiencia
-                    </a>
-                    <a class="barra" href="#python-section">
-                        <b>Python </b>
-                    </a>
-                    <a class="barra" href="#excel-section">
-                        Excel
-                    </a>
-                    <a class="barra" href="#JAVA-section">
-                        JAVA
-                    </a>
-                    <a class="barra" href="#">
-                        SQL
-                    </a>
-                    <button class="barra1">
-                        <a class="butt" href="https://github.com/Economista-Samuel-Castro" target="_blank">
-                            GitHub
-                        </a>
-                    </button>
-                    <button class="barra2">
-                        <a class="butt" href="https://www.linkedin.com/in/samuel-axel-castro-juarez-318326282/" target="_blank">
-                            LinkedIn
-                        </a>
-                    </button>
-                </nav>
-                <br>
-                <br>
-                <div class="titulo">
-                    <h1>
-                        Portafolio 
-                    </h1>
-                </div>
-            </header>
-            <br id="yo">
-            <br>
-            <h1>
-                Sobre mi
-            </h1>
-            <div class="yo">
-                <div class="info">
-                    <br>
-                    <h1>
-                        Samuel Castro
-                    </h1>
-                    <p class="contenido">
-                        ¡Hola! Mi nombre es <b class="mi">Samuel Axel Castro Juárez</b>, tengo <b class="mi">24 años</b> y soy <b class="mi">Economista</b> egresado del <b class="mi">IPN.</b><br>
-                        Realice mi proyecto de investigación <b class="mi">"La rentabilidad de las criptomonedas"</b> con el cual obtuve el <b class="mi">titulo de economista, el cual sigue en tramite.</b>
-                        Me gusta el análisis de datos y la programación, por lo cual decidí tomar algunos cursos (Pueden checarlos aqui <a class="contac" 
-                        href="https://github.com/Economista-Samuel-Castro/CURSOS" style="text-decoration: underline;" target="_blank">GitHub.</a>).<br>
-                    </p>
-                    <p class="contenido">
-                        En esta página, podrán ver algunos de los proyectos que desarrollé en la Universidad y en algunos cursos. 
-                        En cada apartado, tendrán un botón para revisar el proyecto en profundidad.
-                    </p>
-                    <p class="contenido">
-                        Les dejo mi contacto a continuación (dar clic):
-                    </p>
-                    <br>
-                    <div style="position: relative;">
-                        <p style="font-size: 16pt;">
-                                                                        <a class="contac" href="mailto: lic.economista.samuelcastro@gmail.com?subject= Interesado%20en%20sus%20servicios.">lic.economista.samuelcastro@gmail.com</a>
-                        </p>
-                        <div>
-                            <img src="imagenes/correo.png" class="contacto">
-                        </div>
-                    </div>
-                    <div style="position: relative;">
-                        <p style="font-size: 16pt;">
-                                                                        <a class="contac" href="https://www.linkedin.com/in/samuel-axel-castro-juarez-318326282/" target="_blank">Samuel Axel Castro Juarez</a>
-                        </p>
-                        <div>
-                            <img src="imagenes/LinkedIn.png" class="contacto">
-                        </div>
-                    </div>
-                    <div style="position: relative;">
-                        <p style="font-size: 16pt;">
-                                                                        <a class="contac" href="https://wa.link/v0y4qp" target="_blank">Whatsapp; 7224532235</a>
-                        </p>
-                        <div>
-                            <img src="imagenes/whatsapp.png" class="contacto">
-                        </div>
-                    </div>
-                </div>
-                <img class="foto" src="imagenes/samuel.jpeg">
-            </div>
-            <br id="experiencia">
-            <br>
-            <h1>
-                Experiencia Profecional
-            </h1>
-            <div class="yo" style="background-color: #d9e8c1;">
-                <div class="info">
-                    <br/>
-                    <p class="contenido">
-                        Durante mi servicio social en <a class="contac" href="https://www.condusef.gob.mx/index.php" style="text-decoration: underline;" target="_blank" >CONDUSEF</a>, 
-                        trabajé como <b class="puesto">Asistente Jurídico Técnico</b>, brindando apoyo a usuarios con problemas 
-                        financieros. Mi enfoque en la <b class="clave">comunicación efectiva</b> y la resolución de problemas me permitió ayudar a personas en 
-                        situaciones financieras desafiantes, ofreciendo orientación legal y soluciones prácticas. Resolví numerosos casos de 
-                        disputas financieras y colaboré estrechamente con colegas en un entorno de equipo. Esta experiencia me ha dotado de 
-                        habilidades sólidas en comunicación y <b class="clave">resolución de conflictos financieros</b>, y estoy comprometido a aplicar estas 
-                        habilidades para empoderar a otros en sus decisiones financieras.
-                    </p>
-                    <br/>
-                    <p class="contenido">
-                        En mi cargo como <b class="puesto"> Auxiliar de Análisis de datos</b> en 
-                        <a class="contac" href="http://www.sscourier.mx/" style="text-decoration: underline;" target="_blank" >Smart & Secure Courier</a>
-                        , me sumergí en proyectos clave <b class="clave">limpieza, filtrado y 
-                        clasificación</b> de datos complejos. Ejecuté con éxito <b class="clave">cruces de datos</b> entre múltiples tablas, 
-                        empleando sentencias de 
-                        flujo con operadores lógicos para extraer conocimientos esenciales. Trabajar en equipo fue esencial, ya que colaboré 
-                        activamente con colegas para resolver desafíos y encontrar soluciones efectivas. Además, diseñé y desarrollé dashboards 
-                        intuitivos que permitieron una visualización efectiva de los datos. Esta experiencia consolidó mis habilidades en 
-                        <b class="clave">gestión de datos y análisis</b>, fortaleciendo mi capacidad para contribuir significativamente a la toma de decisiones 
-                        basadas en datos.
-                    </p>
-                    
-                </div>
-                <div class="condusef">
-                    JUNIO 2022 - DICIEMBRE 2022
-                </div>
-                <div class="courier">
-                    AGOSTO 2023 - PRESENTE
-                </div>
-            </div>
-            <br id="python-section">
-            <br>
-            <h1>
-                Python 
-            </h1>
-            <div class="python">
-                <div class="info2">
-                    <h2 class="imaTitulo">
-                        Lo que nos enseñó el titanic.
-                    </h2>
-                    <p class="titanic">
-                        Todos han escuchado sobre el Titanic, y sobre todo recientemente por la implosión del submarino que buscaba 
-                        los restos de este.
-                    </p>
-                    <p class="titanic">
-                        La mayoría ha visto la película en la que Leonardo DiCaprio interpreto a Jack Dawson, es una buena película. 
-                        Sin embargo pocos han ampliado su visión de este evento catastrófico e indagado en como se priorizó las vidas que fueron salvadas.
-                    </p>
-                    <p class="titanic">
-                        Por lo cual a través de la base de datos del Titanic investigue como el género, la clase y edad tienen una significancia 
-                        al momento de priorizar las vidas en este terrible suceso.<br>
-                        El resultado de esta investigación me sorprendió un poco y me entristeció, ya que las vidas que menos se priorizaron fueron 
-                        la de los niños y personas de la tercera edad.
-                    </p>
-                    <p class="titanic">
-                        Pueden ver más sobre esto dando clic en el siguiente botón.
-                    </p>
-                    <br>
-                        <button class="bpython">
-                            <a class="buttpython" href="https://github.com/Economista-Samuel-Castro" target="_blank">
-                                Titanic
-                            </a>
-                </div>
-                <img src="imagenes/Edad_VS_Sobrevive.png" class="foto2">
-            </div>
-            <div class="python">
-                <div class="info">
-                    <h2 class="imaTitulo">
-                        La rentabilidad de las acciones que recomiendo Investing en un portafolio de inversión.
-                    </h2>
-                    <p class="titanic">
-                        En estos tiempos de incertidumbre la gente busca una manera de guardar su dinero sin 
-                        que sufra una depreciación al pasar el tiempo.
-                    </p>
-                    <p class="titanic">
-                        Claro que existen muchas formas de ahorrar, CETES o AFORE (por mencionar algunas), 
-                        pero la que llama más la atención en los últimos años es la de los portafolios de inversión, 
-                        invertir en la bolsa de valores.
-                    </p>
-                    <p class="titanic">
-                        Existen muchas páginas que te dicen; "Estas son las mejores acciones para invertir".<br>
-                        Y pude que si sean buenas para invertir, o puede que no. Por lo cual decidí hacer el análisis 
-                        de 12 acciones basado en la página de Investing.
-                    </p>
-                    <p class="titanic">
-                        Haciendo uso de la teoría moderna de portafolios de Harry Markowitz, realice el análisis en Python.<br>
-                        Los resultados a mi parecer son interesantes y dejar mucho que pensar al visitar este tipo de páginas.
-                    </p>
-                </p>
-                <button class="bpython">
-                    <a class="buttpython" href="https://github.com/Economista-Samuel-Castro" target="_blank">
-                        Portafolio
-                    </a>
-                </div>
-                <img src="imagenes/correlacion.png" class="foto" style="top: 15%; width: 25%;">
-            </div>
-            </div>
-            <br id="excel-section">
-            <br>
-            <h1>
-                Excel
-            </h1>
-            <div class="excel">
-                <div class="info2">
-                    <h2 class="imaTitulo">
-                        Excel Intermedio
-                    </h2>
-                    <p class="titanic">
-                        Tome el curso de Excel Intermedio, donde aprendí funciones básicas y avanzadas para ordenar, 
-                        filtrar y extraer datos de una hoja de cálculo.
-                    </p>
-                    <p class="titanic">
-                        Use funciones como contar.Si, si.Conjunto, max, min, promedio, buscarV, buscarH, buscarX 
-                        (la cual es mi favorita) por mencionar algunas.
-                    </p>
-                    <p class="titanic">
-                        También usé filtros para ordenar, filtrar y extraer datos. Así como obtener totales generales 
-                        o subtotales, agregando a la vez filtros para observar solo los elementos deseados, aunado a 
-                        esto realice gráficos dinámicos con la finalidad de poder entender mejor los datos a través 
-                        de un gráfico que permite observar el comportamiento de los datos.
-                    </p>
-                    <button class="bpython">
-                        <a class="buttpython" href="https://github.com/Economista-Samuel-Castro" target="_blank">
-                            Excel Intermedio
-                        </a>
-                </div>
-                <img src="imagenes/NOMINA.jpg" class="foto2" style="width: 30%; left: 68%;" >
-            </div>
-            <div class="excel">
-                <div class="info">
-                    <h2 class="imaTitulo">
-                        Extraer datos de una hoja y rangos de celdas específicas de un archivo de Excel.
-                    </h2>
-                </div>
-                <img src="imagenes/pythonExcel.png" class="foto" style="top: 15%; width: 25%;">
-            </div>
-            </div>
-            <br>
-            <br id="JAVA-section">
-            <br>
-            <h1>
-                JAVA 
-            </h1>
-            <div class="python">
-                <div class="info2">
-                    <h2 class="imaTitulo">
-                        Calculadora
-                    </h2>
-                    <p class="titanic">
-                        Utilice las bibliotecas java.awt y javax.swing para crear una calculadora. La interfaz gráfica se compone de una ventana principal 
-                        que contiene un conjunto de botones numéricos, operadores matemáticos y una pantalla de visualización para la entrada y salida de datos. 
-                        Utilizado 
-                        GridLayout para organizar los botones en una cuadrícula y FlowLayout para manejar el diseño de la pantalla y los botones de operador.
-                    </p>
-                    <p class="titanic">
-                        La calculadora permite a los usuarios realizar operaciones matemáticas básicas, como sumar, restar, multiplicar y dividir. 
-                        Se utilizan eventos de acción para detectar cuando se presionan los botones y se realiza el cálculo correspondiente. 
-                        El resultado se muestra en la pantalla de visualización de la calculadora
-                    </p>
-                    <p class="titanic">
-                        En resumen, este proyecto demuestra cómo crear una calculadora simple utilizando las bibliotecas java.awt y javax.swing. 
-                        Proporciona una interfaz 
-                        gráfica amigable para que los usuarios ingresen números y realicen operaciones matemáticas básicas de manera interactiva.
-                    </p>
-                    <p class="titanic">
-                        Pueden ver más sobre esto dando clic en el siguiente botón.
-                    </p>
-                    <br>
-                        <button class="bpython">
-                            <a class="buttpython" href="https://github.com/Economista-Samuel-Castro/CURSOS/tree/main/javva" target="_blank">
-                                interfaz
-                            </a>
-                </div>
-                <img src="imagenes/calcu.jpg" class="foto3">
-            </div>
-            <div class="python">
-                <div class="info">
-                    <h2 class="imaTitulo">
-                        Practicas de para aprender Poo
-                    </h2>
-                    <p class="titanic">
-                        Realice algunas practicas donde desarrolle los conceptos basicos de la Programación Orientada a Objetos.
-                    </p>
-                    <p class="titanic">
-                        Comencé con una comprensión sólida de los conceptos básicos de POO, como clases, objetos, atributos y 
-                        métodos, antes de avanzar hacia la creación de mis propias clases y objetos en Java.
-                    </p>
-                    <p class="titanic">
-                        Exploré en la herencia y el polimorfismo, diseñando jerarquías de clases para aplicar estos conceptos en 
-                        proyectos más avanzados.
-                        También la encapsulación y los modificadores de acceso para garantizar la seguridad y coherencia de mis clases.
-                    </p>
-                    <p class="titanic">
-                        Mantuve un enfoque constante en el aprendizaje continuo, ya que la POO en Java es una disciplina en constante evolución.
-                        En resumen, mi viaje de aprendizaje en POO en Java fue enriquecedor y esencial para mi crecimiento profesional. 
-                        Estas prácticas me permitieron adquirir una base sólida en programación orientada a objetos.
-                    </p>
-                </p>
-                <button class="bpython">
-                    <a class="buttpython" href="https://github.com/Economista-Samuel-Castro/CURSOS/tree/main/javva/Practicas" target="_blank">
-                        Practicas
-                    </a>
-                </div>
-                <img src="imagenes/java.png" class="foto"style="top: 15%; width: 30%;">
-            </div>
-            </div>
-            <!-- <script src="javaScript/portafolio.js"></script>... -->
-    </body>
-        <footer>
-            <nav>
-                <a class="redes" href="https://www.linkedin.com/in/samuel-axel-castro-juarez-318326282/" target="_blank">
-                    <img class="imm" src="imagenes/LinkedIn.png" style="width: 2%;">
-                </a>
-                <a class="redes" href="#">
-                    <img class="imm" src="imagenes/occmundial.png">
-                </a>
-                <a class="redes" href="https://github.com/Economista-Samuel-Castro" target="_blank">
-                    <img class="imm" src="imagenes/GitHub.png">
-                </a>
-            </nav>
-            <p class="imm">
-                © 2023 Todos los derechos reservados.<br/>
-                Samuel Axel Castro Juárez.<br/>
-            </p>
-        </footer>
-</html>
+body{
+    background-color: #ede6db;
+}
+.contenedor{
+    width: 100%;
+    max-width: 1000px;
+    height: auto;
+    text-align: center;
+    box-sizing: border-box;
+}
+.barra{
+    background-color:#56070C;
+    width: 100%;
+    padding-top: 9px;
+    margin: 40px 30px 0px 15px;
+    text-align: center;
+    text-decoration-line:none;
+    color: white;
+    font-size: 16pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-sizing: border-box;
+}
+button.barra1{
+    margin: 5px 20px 5px 150px;
+    background-color: #00514e;
+}
+button{
+    border-radius: 30px;
+    background-color: #28706c;
+}
+.butt{
+    font-size: 20pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+    text-align: center;
+    text-decoration-line:none;
+    color:white ;
+}
+button.barra1:hover{
+    background-color: grey;
+}
+button.barra2:hover{
+    background-color: #005100;
+}
+.yo{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: #9d5353;    
+}
+.mi{
+    color: #f5f5f5;
+}
+.contac{
+    color: black;
+}
+.info{
+    position: relative;
+    left: 30%;
+    width: 65%;
+    height: 100%;
+}
+.foto{
+    position: absolute;
+    top: 15%;
+    left: 2%;
+    width: 18%;
+}
+.condusef{
+    position: absolute;
+    top: 13%;
+    left: 2%;
+    width: 18%;
+    font-size: 20pt;
+}
+.courier{
+    position: absolute;
+    top: 59%;
+    left: 2%;
+    width: 18%;
+    font-size: 20pt;
+}
+.puesto{
+    font-size: 18pt;
+    color: #0000a0;
+
+}
+.clave{
+    color: #c30000;
+}
+.contenido{
+    text-align: justify;
+    font-size: 16pt;
+}
+.GitHub:hover{
+    background-color: green;
+    border-radius: 30px;
+}
+.contacto{
+    position: absolute;
+    top: -30%;
+    left: 20%;
+    width: 4%;
+}
+.bNavegacion{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color:#56070C;
+    width: 100%;
+    height: auto;
+    z-index: 1000;
+}
+div.python{
+    position: relative;
+    width:100%;
+    height: auto;
+    background-color: #8fbdd3;
+    margin: 15px 0px;
+}
+p.titanic{
+    font-size: 17pt;
+    text-align: justify;
+}
+.bpython{
+    margin: 5px 40px 5px 150px;
+    background-color: #9d5353;
+}
+.buttpython{
+    font-size: 20pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+    text-align: center;
+    text-decoration-line:none;
+    color:white ;
+}
+div.excel{
+    position: relative;
+    width:100%;
+    height: auto;
+    background-color: #a2b38b;
+    margin: 15px 0px;
+}
+h2.imaTitulo{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.info2{
+    position: relative;
+    left: 2%;
+    width: 65%;
+    height: 100%;
+}
+.foto2{
+    position: absolute;
+    top: 15%;
+    left: 72%;
+    width: 25%;
+}
+.foto3{
+    position: absolute;
+    top: 10%;
+    left: 72%;
+    width: 20%;
+}
+footer{
+    text-align: center;
+    width: 100%;
+    height: 150px;
+    background-color: #48A864;
+}
+.redes{
+    padding: 40px;
+}
+img.imm{
+    width: 4%;
+}
+p.imm{
+    text-align: center;
+}
